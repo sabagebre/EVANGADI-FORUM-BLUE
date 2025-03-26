@@ -1,5 +1,5 @@
 // Header.jsx
-import React, { useContext, useState } from "react";// hooks from react
+import React, { useContext, useState } from "react";// hook from react
 import EvangadiLogo from "../../assets/evangadiBlackLogo.png";
 import styles from "./header.module.css";
 import { Link } from "react-router-dom";
